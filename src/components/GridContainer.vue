@@ -70,6 +70,11 @@ defineProps({
       <a class="Link" href="https://drive.google.com/drive/folders/1aRqqBIlqLxMrn_qSCGlUtq0zBMUFth_1" target="_blank">Panda Resources</a>
     </div>
     <div class="GridChild">
+      <p class="Subject">General Paper</p>
+      <br>
+      <a class="Link" href="https://sites.google.com/hci.edu.sg/2023-c1-microsites/microsites" target="_blank">Google Sites</a>
+    </div>
+    <div class="GridChild">
       <p class="Subject">Project Work</p>
       <br>
       <a class="Link" href="https://sites.google.com/hci.edu.sg/hciprojectwork/home?authuser=0" target="_blank">Google Sites</a>
