@@ -5,10 +5,10 @@ defineProps({
 
 <template>
   <h1 class="Week">Odd Week</h1>
-  <img class="Table" src="../assets/2023t2o.png">
+  <img class="Table" src="../assets/2023t3o.png">
   <br><br>
   <h1 class="Week">Even Week</h1>
-  <img class="Table" src="../assets/2023t2e.png">
+  <img class="Table" src="../assets/2023t3e.png">
 </template>
 
 <style>
