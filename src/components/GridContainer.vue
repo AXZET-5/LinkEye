@@ -43,6 +43,7 @@ defineProps({
     <div class="GridChild">
       <p class="Subject">Physics</p>
       <br>
+      <a class="Link" href="https://drive.google.com/drive/folders/1XKX3KYUpEtjOn6Y45AYWt3ILBeIwTdmj">Google Drive</a><br><br>
       <a class="Link" href="https://sites.google.com/hci.edu.sg/hci-h2-physics-9749/home?pli=1&authuser=1" target="_blank">Google Sites</a><br><br>
       <a class="Link" href="https://mylabmastering.pearson.com/?courseId=11944599&key=1579114589204027960332023#/" target="_blank">Pearson Platform</a><br><br>
       <a class="Link" href="https://docs.google.com/document/d/16ki__UtQjypPnAqan-2f9buIx6L3ZilF/edit" target="_blank">Schedule</a>
