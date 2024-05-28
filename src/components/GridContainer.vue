@@ -46,7 +46,7 @@ defineProps({
       <a class="Link" href="https://drive.google.com/drive/folders/1XKX3KYUpEtjOn6Y45AYWt3ILBeIwTdmj" target="_blank">Google Drive</a><br><br>
       <a class="Link" href="https://sites.google.com/hci.edu.sg/hci-h2-physics-9749/home?pli=1&authuser=1" target="_blank">Google Sites</a><br><br>
       <a class="Link" href="https://mylabmastering.pearson.com/?courseId=11944599&key=1579114589204027960332023#/" target="_blank">Pearson Platform</a><br><br>
-      <a class="Link" href="https://docs.google.com/document/d/16ki__UtQjypPnAqan-2f9buIx6L3ZilF/edit" target="_blank">Schedule</a>
+      <a class="Link" href="https://docs.google.com/document/d/16ki__UtQjypPnAqan-2f9buIx6L3ZilF/edit" target="_blank">Schedule</a><br><br>
       <a class="Link" href="https://happytutors.edu.sg/wp-content/uploads/2023/05/H2-Physics-A-Levels-Data-and-Formulae.pdf" target="_blank">Datasheet</a>
     </div>
     <div class="GridChild">
