@@ -47,6 +47,7 @@ defineProps({
       <a class="Link" href="https://sites.google.com/hci.edu.sg/hci-h2-physics-9749/home?pli=1&authuser=1" target="_blank">Google Sites</a><br><br>
       <a class="Link" href="https://mylabmastering.pearson.com/?courseId=11944599&key=1579114589204027960332023#/" target="_blank">Pearson Platform</a><br><br>
       <a class="Link" href="https://docs.google.com/document/d/16ki__UtQjypPnAqan-2f9buIx6L3ZilF/edit" target="_blank">Schedule</a>
+      <a class="Link" href="https://happytutors.edu.sg/wp-content/uploads/2023/05/H2-Physics-A-Levels-Data-and-Formulae.pdf" target="_blank">Datasheet</a>
     </div>
     <div class="GridChild">
       <p class="Subject">Chemistry</p>
@@ -62,7 +63,7 @@ defineProps({
       <br>
       <a class="Link" href="https://tinyurl.com/23-24-h2math" target="_blank">Google Sites</a><br><br>
       <a class="Link" href="https://drive.google.com/file/d/1VNASUKcdQWvBC8dXr527rr9h274W2UE2/view" target="_blank">Schedule</a><br><br>
-      <a class="Link" href="https://www.seab.gov.sg/content/syllabus/alevel/2017Syllabus/ListMF26.pdf" target="_blank">List MF26</a>
+      <a class="Link" href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/List_MF26_y22_sy.pdf" target="_blank">List MF26</a>
     </div>
     <div class="GridChild">
       <p class="Subject">Economics</p>
